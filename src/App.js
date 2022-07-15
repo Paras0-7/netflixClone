@@ -1,5 +1,5 @@
 import "./App.css";
-import { Header } from "./components/Header/Header";
+import { Header } from "./components/UI/Header";
 import { Row } from "./components/Row/Row";
 import { requests } from "./requests";
 function App() {
